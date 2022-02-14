@@ -1,0 +1,46 @@
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background-color: DFD8C8;
+	font-family: 'Lora'; serif;
+	font-size: 18px;
+	margin: 0px;
+	align-items: center;
+}
+
+h1, h2, h3{
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+h5, h4 {
+	font-family: 'Roboto';
+	font-weight: lighter;
+	font-size: 20px;
+
+}
+
+a {
+	text-decoration: none;xt
+	color: rgb(6, 70, 53);
+}
+ 
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+}
+
+img {
+	width: 150px;
+	height: 220px;
+}
